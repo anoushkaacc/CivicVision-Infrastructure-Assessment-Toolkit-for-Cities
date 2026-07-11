@@ -2,6 +2,10 @@
 
 **CivicVision** is an AI-powered civic infrastructure assessment system that analyzes road images to detect road damage and traffic conditions in real-time. It uses state-of-the-art deep learning models to evaluate road health, generate comprehensive reports, and provide data-driven maintenance recommendations.
 
+[![Created Badge](https://badges.pufler.dev/created/anoushkaacc/CivicVision-Infrastructure-Assessment-Toolkit-for-Cities)](https://badges.pufler.dev/anoushkaacc/CivicVision-Infrastructure-Assessment-Toolkit-for-Cities)
+[![Visits Badge](https://badges.pufler.dev/visits/anoushkaacc/CivicVision-Infrastructure-Assessment-Toolkit-for-Cities)](https://badges.pufler.dev/visits/anoushkaaccCivicVision-Infrastructure-Assessment-Toolkit-for-Cities)
+[![Updated Badge](https://badges.pufler.dev/updated/anoushkaacc/CivicVision-Infrastructure-Assessment-Toolkit-for-Cities)](https://badges.pufler.dev/anoushkaacc/CivicVision-Infrastructure-Assessment-Toolkit-for-Cities)
+
 ## Table of Contents
 
 - [Overview](#overview)

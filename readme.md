@@ -86,7 +86,7 @@ This system is ideal for:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/civicvision.git
+git clone https://github.com/anoushkaacc/civicvision.git
 cd civicvision
 
 # 2. Install dependencies
@@ -114,7 +114,7 @@ python main.py path/to/image_or_folder
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/civicvision.git
+git clone https://github.com/anoushkaacc/civicvision.git
 cd civicvision
 ```
 
@@ -621,7 +621,7 @@ Contributions are welcome! Please:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
+3. Commit changes (`git commit -m 'Add feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
